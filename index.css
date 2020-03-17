@@ -134,6 +134,24 @@ width:60%;
 display:none;
 }
 
+.cta-button {
+font-family: montserrat;
+font-size: 12px;
+text-transform: uppercase;
+padding: 10px;
+border: 2px solid #333;
+color: #333;
+text-decoration: none;
+display: inline-block;
+transition: all .5s;
+}
+
+.cta-button:hover {
+background: #333;
+color: #eee;
+}
+
+
 .menu-container-bottom {
 position: fixed;
 display: flex;
@@ -339,9 +357,6 @@ background: inherit;
 text-align: center;
 background-color: #eeee;
 }
-
-
-
 
 /* footer */
 
