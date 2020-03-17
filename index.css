@@ -1,12 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400');
 html {font-size: 100%;} /*16px*/
 
-
-@font-face {
-font-family: 'Kinetic-r';
-src:  url("Kinetic-Regular.ttf");
-}
-
 @font-face {
 font-family: 'Kinetic-Bold';
 src: url("Kinetic-Bold.ttf");
