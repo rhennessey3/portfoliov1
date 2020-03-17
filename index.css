@@ -75,14 +75,13 @@ flex-direction: column;
 justify-content: center;
 text-align: center;
 height:100%;
-width:100%;
-    
+width:100%;   
 background-color: white; 
 }
 
 .display-open{
-  display: flex;
-  transition: all 2s;
+display: flex;
+transition: all 2s;
 }
 
 .navContent ul {
@@ -98,15 +97,15 @@ padding:15px;
 }
 
 .navContent li  {
-  padding: 5px;
+padding: 5px;
 }
 
 .navContent a  {
- text-decoration: none;
+text-decoration: none;
 }
 
 .signature {
-  padding:30px;
+padding:30px;
 }
 
 .menu-container-top {
@@ -663,9 +662,8 @@ flex-direction: column;
 align-items: center;
 height:33.33%;
 width: 100%;
-/* border:1px solid red; */
-}
 
+}
 }
 
 /*               */
@@ -685,7 +683,6 @@ padding-left:50px;
 /*               */
 /* tv size       */
 /*               */
-
 
 @media (min-width: 1170px) {
 .body-tech-used {
